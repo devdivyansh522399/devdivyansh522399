@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdivyansh522399&label=Profile%20views&color=0e75b6&style=flat" alt="devdivyansh522399" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdivyansh522399&theme=" alt="devdivyansh522399" /></a> </p>
+
 
 - 🔭 I’m currently working on [Snippets (Blog App)](https://blog522.vercel.app)
 - 🌱 I’m currently learning **Typescript and Socket.io**
